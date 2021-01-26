@@ -13,5 +13,4 @@ public class RemoveWhiteSpace {
 		System.out.println(result = trimmer(ip));
 
 	}
-
 }
